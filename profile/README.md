@@ -7,4 +7,4 @@ Currently offered courses:
 
 Computer Science Teachers:
 - [Mr. Rogers](https://github.com/drogers)
-- [Mr. Veitch](https://github.com/bveitch225)
+- [Mr. Veitch](https://github.com/bveitchd225)
